@@ -1,0 +1,29 @@
+{
+  "name": "qen.js",
+  "version": "1.0.0",
+  "description": "A utility package for Ethiopian date conversion, payment scheduling, and holiday checks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ethiopian",
+    "date",
+    "calendar",
+    "payment",
+    "scheduler",
+    "qen"
+  ],
+  "author": "Tamagn Zewdu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tamiopia/qen.js"
+  },
+  "dependencies": {
+    "luxon": "^3.3.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
